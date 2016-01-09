@@ -32,7 +32,10 @@ use Mix.Config
 config :poker,
 pokees: [
   [name: "elixir", url: "http://elixir-lang.org/"],
-  [name: "ruby", url: "https://ruby-lang.org/"],
-  [name: "python", url: "https://www.python.org/"],
+  [name: "ruby", url: "http://ruby-lang.org/"],
+  [name: "python", url: "http://www.python.org/"],
   [name: "go", url: "http://golang.org/"],
+  [name: "HN", url: "http://news.ycombinator.com/"],
+  [name: "google", url: "http://google.com/"],
+  [name: "yahoo", url: "http://yahoo.com/"],
 ]
